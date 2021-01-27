@@ -1,0 +1,3 @@
+D:\Downloads\SocialMediaPlatform_school\Todo_changed\TodoLibrary\obj\Debug\netstandard2.0\PostLibrary.AssemblyInfoInputs.cache
+D:\Downloads\SocialMediaPlatform_school\Todo_changed\TodoLibrary\obj\Debug\netstandard2.0\PostLibrary.AssemblyInfo.cs
+D:\Downloads\SocialMediaPlatform_school\Todo_changed\TodoLibrary\obj\Debug\netstandard2.0\PostLibrary.csproj.CoreCompileInputs.cache
